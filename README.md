@@ -32,7 +32,8 @@
   [[paper]](https://arxiv.org/abs/2306.00958)
   [[code]](https://github.com/penn-pal-lab/LIV)
   [[webpage]](https://penn-pal-lab.github.io/LIV/)
-  Learning Reward Functions for Robotic Manipulation by Observing Humans
+- **Learning Reward Functions for Robotic Manipulation by Observing Humans**
+  [[paper]](https://arxiv.org/abs/2211.09019)
 - **Deep visual foresight for planning robot motion (ICRA 2017)**
   [[paper]](https://arxiv.org/abs/1610.00696)
 - **VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation (RSS 2024)**
