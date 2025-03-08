@@ -11,9 +11,9 @@
   [[webpage]](https://language-to-reward.github.io/)
 - **Vision-Language Models as Success Detectors (CoLLA 2023)**
   [[paper]](https://proceedings.mlr.press/v232/du23b/du23b.pdf)
-- **Scaling robot policy learning via zero-shot labeling with foundation models (CoRL 2024)**  
-  [[paper]](https://arxiv.org/abs/2410.17772)  
-  [[code]](https://robottasklabeling.github.io/)  
+- **Scaling robot policy learning via zero-shot labeling with foundation models (CoRL 2024)**
+  [[paper]](https://arxiv.org/abs/2410.17772)
+  [[code]](https://robottasklabeling.github.io/)
   [[webpage]](https://robottasklabeling.github.io/) 
 - **FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning (ICML 2024)**  
   [[paper]]([https://arxiv.org/abs/2402.00000](https://arxiv.org/abs/2406.00645)) 
