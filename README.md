@@ -15,8 +15,8 @@
   [[paper]](https://arxiv.org/abs/2410.17772)
   [[code]](https://robottasklabeling.github.io/)
   [[webpage]](https://robottasklabeling.github.io/) 
-- **FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning (ICML 2024)**  
-  [[paper]]([https://arxiv.org/abs/2402.00000](https://arxiv.org/abs/2406.00645)) 
+- **FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning (ICML 2024)**
+  [[paper]]([https://arxiv.org/abs/2402.00000](https://arxiv.org/abs/2406.00645))
   [[code]](https://github.com/fuyw/FuRL)  
 - **Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning (ICLR 2024)**
   [[paper]](https://openreview.net/forum?id=tUM39YTRxH)
