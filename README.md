@@ -124,68 +124,50 @@
 - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents (PMLR 2022)**
   [[paper]](https://arxiv.org/pdf/2201.07207.pdf)
   [[code]](https://github.com/huangwl18/language-planner)
-
 - **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition (PMLR 2023)**
   [[paper]](https://arxiv.org/abs/2307.14535)
   [[code]](https://github.com/real-stanford/scalingup)
-
 - **Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks (ICLR 2024)**
   [[paper]](https://arxiv.org/pdf/2405.01534)
   [[code]](https://github.com/mihdalal/planseqlearn)
-
 - **Large language models as commonsense knowledge for large-scale task planning (NeurIPS 2023)**
   [[paper]](https://arxiv.org/abs/2305.14078)
   [[code]](https://github.com/1989Ryan/llm-mcts)
-
 - **REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction (CoRL 2023)**
   [[paper]](https://arxiv.org/abs/2306.15724)
   [[code]](https://github.com/real-stanford/reflect)
-
 - **Gesture-Informed Robot Assistance via Foundation Models (CoRL 2023)**
   [[paper]](https://openreview.net/pdf?id=Ffn8Z4Q-zU)
-
 - **Large Language Models for Robotics: Opportunities, Challenges, and Perspectives**
   [[paper]](https://arxiv.org/pdf/2401.04334)
-
 - **Embodied Agent Interface (EAI): Benchmarking LLMs for Embodied Decision Making (NeurIPS 2024 Track Datasets and Benchmarks)**
   [[paper]](https://arxiv.org/abs/2410.07166)
   [[code]](https://github.com/embodied-agent-interface/embodied-agent-interface)
-
 - **Embodiedgpt: Vision-language pre-training via embodied chain of thought (NeurIPS 2023)**
   [[paper]](https://arxiv.org/pdf/2305.15021.pdf)
   [[code]](https://github.com/OpenGVLab/EmbodiedGPT)
-
 - **Chat with the Environment: Interactive Multimodal Perception using Large Language Models (IROS 2023)**
   [[paper]](https://arxiv.org/abs/2303.08268)
   [[code]](https://github.com/xf-zhao/Matcha)
-
 - **Embodied CoT Distillation From LLM To Off-the-shelf Agents (ICML 2024)**
    [[paper]](https://arxiv.org/html/2412.11499v1)
-
 - **Do as i can, not as i say: Grounding language in robotic affordances**
   [[paper]](https://say-can.github.io/assets/palm_saycan.pdf)
   [[code]](https://github.com/google-research/google-research/tree/master/saycan)
-
 - **Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents (NeurIPS 2023)**
   [[paper]](https://openreview.net/pdf?id=JCCi58IUsh)
-
 - **Inner Monologue: Embodied Reasoning through Planning with Language Models (CoRL 2022)**
  [[paper]](https://arxiv.org/abs/2207.05608)
-
 - **PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large Multimodal Models**
   [[paper]](https://arxiv.org/pdf/2402.16836.pdf)
   [[code]](https://github.com/dkguo/PhyGrasp)
-
 - **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning (CoRL 2023)**
   [[paper]](https://arxiv.org/abs/2307.06135)
-
 - **Robomp2: A robotic multimodal perception-planning framework with multimodal large language models (ICML 2024)**
   [[paper]](https://arxiv.org/abs/2404.04929)
   [[code]](https://github.com/aopolin-lv/RoboMP2)
-
 - **Text2Motion: From Natural Language Instructions to Feasible Plans (Autonomous Robots 2023)**
    [[paper]](https://openreview.net/pdf?id=M1yTyG5P7Cl)
-
 - **STAP: Sequencing Task-Agnostic Policies (ICRA 2023)**
   [[paper]](https://arxiv.org/abs/2210.12250)
   [[code]](https://github.com/agiachris/STAP)
