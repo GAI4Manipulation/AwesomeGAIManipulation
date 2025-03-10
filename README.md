@@ -174,7 +174,8 @@
   
 ## Code Generation
 
-## Image Generation
+## Visual Generation
+
 
 
 ## Grasp Generation
