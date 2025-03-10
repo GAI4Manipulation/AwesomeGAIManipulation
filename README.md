@@ -223,6 +223,10 @@
   [[paper]](https://arxiv.org/abs/2403.08321)
   [[webpage]](https://guanxinglu.github.io/ManiGaussian/)
   [[code]](https://github.com/GuanxingLu/ManiGaussian)
+- **GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields (CoRL 2023)**
+  [[paper]](https://arxiv.org/abs/2308.16891)
+  [[webpage]](https://yanjieze.com/GNFactor/)
+  [[code]](https://github.com/YanjieZe/GNFactor)
 
 
 
