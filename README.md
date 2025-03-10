@@ -175,7 +175,9 @@
 ## Code Generation
 
 ## Visual Generation
-
+- **Learning Universal Policies via Text-Guided Video Generation (NeurIPS 2023)**
+  [[paper]](https://arxiv.org/abs/2302.00111)
+  [[webpage]](https://universal-policy.github.io/unipi/)
 
 
 ## Grasp Generation
