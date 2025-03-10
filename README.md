@@ -54,7 +54,7 @@
 - **Policy improvement using language feedback models (NeurIPS 2024)**
   [[paper]](https://arxiv.org/abs/2402.07876)
 
-## Image Generation
+
 
 ## State Generation
 
@@ -171,7 +171,41 @@
 - **STAP: Sequencing Task-Agnostic Policies (ICRA 2023)**
   [[paper]](https://arxiv.org/abs/2210.12250)
   [[code]](https://github.com/agiachris/STAP)
+  
+## Code Generation
+
+## Image Generation
+
 
 ## Grasp Generation
 
 ## Trajectory Generation
+- **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation**
+  [[webpage]](https://mobile-aloha.github.io)
+- **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**
+  [[webpage]](https://diffusion-policy.cs.columbia.edu)
+- **3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**
+  [[webpage]](https://3d-diffuser-actor.github.io)
+- **RT-1: Robotics Transformer for Real-World Control at Scale**
+  [[webpage]](https://robotics-transformer1.github.io)
+- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**
+  [[webpage]](https://robotics-transformer2.github.io)
+- **RVT: Robotic View Transformer for 3D Object Manipulation**
+  [[webpage]](https://robotic-view-transformer.github.io)
+- **RVT-2: Learning Precise Manipulation from Few Examples**
+  [[webpage]](https://robotic-view-transformer-2.github.io)
+- **GR-1: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**
+  [[webpage]](https://gr1-manipulation.github.io)
+- **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**
+  [[webpage]](https://gr2-manipulation.github.io)
+- **ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**
+  [[webpage]](https://rekep-robot.github.io)
+- **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**
+  [[webpage]](https://homangab.github.io/gen2act)
+- **OpenVLA: An Open-Source Vision-Language-Action Model**
+  [[webpage]](https://openvla.github.io/)
+- **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**
+  [[webpage]](https://rdt-robotics.github.io/rdt-robotics)
+- **π0: Our First Generalist Policy**
+  [[webpage]](https://www.physicalintelligence.company/blog/pi0)  
+    
