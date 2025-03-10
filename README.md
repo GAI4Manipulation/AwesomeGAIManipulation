@@ -194,20 +194,37 @@
   [[code]](https://github.com/bytedance/GR-1)
 - **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**
   [[webpage]](https://gr2-manipulation.github.io)
-- **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models (NeurIPS 2024)**
-  [[paper]](https://arxiv.org/abs/2409.09016)
-  [[code]](https://github.com/OpenDriveLab/CLOVER)
-- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
-  [[paper]](https://arxiv.org/abs/2409.09016)
-  [[code]](https://github.com/OpenDriveLab/CLOVER)
-- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
-  [[paper]](https://arxiv.org/abs/2409.09016)
-  [[code]](https://github.com/OpenDriveLab/CLOVER)
-- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
-  [[paper]](https://arxiv.org/abs/2409.09016)
-  [[code]](https://github.com/OpenDriveLab/CLOVER)
+- **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models (ICLR 2024)**
+  [[paper]](https://arxiv.org/abs/2310.10639)
+  [[webpage]](https://rail-berkeley.github.io/susie/)
+  [[code]](https://github.com/kvablack/susie)
+- **Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts (CVPR 2024)**
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html)
+  [[webpage]](https://cotdiffusion.github.io/)
+- **Surfer: Progressive Reasoning with World Models for Robotic Manipulation**
+  [[paper]](https://arxiv.org/abs/2306.11335)
+- **TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation (CoRL 2022)**
+  [[paper]](https://arxiv.org/abs/2211.09325)
+  [[webpage]](https://sites.google.com/view/tax-pose/home)
+  [[code]](https://github.com/r-pad/taxpose)
+- **Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies (CoRL 2024)**
+  [[paper]](https://arxiv.org/abs/2406.11740)
+  [[webpage]](https://haojhuang.github.io/imagine_page/)
+  [[code]](https://github.com/HaojHuang/imagination-policy-cor24)
+- **Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**
+  [[paper]](https://arxiv.org/abs/2404.01812)
+  [[webpage]](https://actnerf.github.io/)
+  [[code]](https://github.com/ActNeRF/ActNeRF)
+- **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation (CoRL 2022)**
+  [[paper]](https://arxiv.org/abs/2209.05451)
+  [[webpage]](https://peract.github.io/)
+  [[code]](https://github.com/peract/peract)
+- **ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation (ECCV 2024)**
+  [[paper]](https://arxiv.org/abs/2403.08321)
+  [[webpage]](https://guanxinglu.github.io/ManiGaussian/)
+  [[code]](https://github.com/GuanxingLu/ManiGaussian)
 
-  
+
 
 
 ## Grasp Generation
