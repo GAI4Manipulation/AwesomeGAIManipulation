@@ -174,6 +174,53 @@
   
 ## Code Generation
 
+- **Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V (arXiv 2024)**
+  [[paper]](https://arxiv.org/abs/2404.10220)
+- **ProgPrompt: Program Generation for Situated Robot Task Planning Using Large Language Models (Autonomous Robots 2023)**
+  [[paper]](https://arxiv.org/abs/2209.11302)
+- **See and Think: Embodied Agent in Virtual Environment (arXiv 2023)**
+  [[paper]](https://arxiv.org/abs/2311.15209)
+- **Octopus: Embodied Vision-Language Programmer from Environmental Feedback (ECCV 2024)**
+  [[paper]](https://arxiv.org/abs/2310.08588)
+  [[webpage]](https://choiszt.github.io/Octopus/)
+  [[code]](https://github.com/dongyh20/Octopus)
+- **Demo2Code: From Summarizing Demonstrations to Synthesizing Code via Extended Chain-of-Thought (NeurIPS 2023)**
+  [[paper]](https://arxiv.org/abs/2305.16744)
+  [[webpage]](https://portal-cornell.github.io/demo2code/)
+  [[code]](https://github.com/portal-cornell/demo2code)
+- **EC2: Emergent Communication for Embodied Control (CVPR 2023)**
+  [[paper]](https://arxiv.org/abs/2304.09448)
+- **When Prolog Meets Generative Models: A New Approach for Managing Knowledge and Planning in Robotic Applications (ICRA 2024)**
+  [[paper]](https://arxiv.org/abs/2309.15049)
+- **Code as Policies: Language Model Programs for Embodied Control (ICRA 2023)**
+  [[paper]](https://arxiv.org/abs/2209.07753)
+  [[webpage]](https://code-as-policies.github.io/)
+  [[code]](https://github.com/google-research/google-research/tree/master/code_as_policies)
+- **GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks (arXiv 2024)**
+  [[paper]](https://arxiv.org/abs/2404.06645)
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models (CoRL 2023)**
+  [[paper]](https://arxiv.org/abs/2307.05973)
+  [[webpage]](https://voxposer.github.io/)
+  [[code]](https://github.com/huangwl18/VoxPoser)
+- **ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation (arXiv 2024)**
+  [[paper]](https://arxiv.org/abs/2409.01652)
+  [[webpage]](https://rekep-robot.github.io/)
+  [[code]](https://github.com/huangwl18/ReKep)
+- **RoboScript: Code Generation for Free-Form Manipulation Tasks Across Real and Simulation (arXiv 2024)**
+  [[paper]](https://arxiv.org/abs/2402.16117)
+- **RobotGPT: Robot Manipulation Learning From ChatGPT (RAL 2024)**
+  [[paper]](https://arxiv.org/abs/2312.01421)
+- **RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis (ICML 2024)**
+  [[paper]](https://arxiv.org/abs/2402.16117)
+  [[webpage]](https://sites.google.com/view/robocodex)
+  [[code]](https://github.com/RoboCodeX-source/RoboCodeX_code)
+- **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model (arXiv 2023)**
+  [[paper]](https://arxiv.org/abs/2305.11176)
+  [[code]](https://github.com/OpenGVLab/Instruct2Act)
+- **GenSim: Generating Robotic Simulation Tasks via Large Language Models (ICLR 2024)**
+  [[paper]](https://arxiv.org/abs/2310.01361)
+  [[code]](https://github.com/liruiw/GenSim)
+
 ## Visual Generation
 - **Learning Universal Policies via Text-Guided Video Generation (NeurIPS 2023)**
   [[paper]](https://arxiv.org/abs/2302.00111)
