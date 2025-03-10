@@ -181,15 +181,31 @@
 - **SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation (ICLR 2025)**
   [[paper]](https://arxiv.org/abs/2410.23277)
   [[webpage]](https://slowfast-vgen.github.io/)
-- **Learning Universal Policies via Text-Guided Video Generation (NeurIPS 2023)**
-  [[paper]](https://arxiv.org/abs/2302.00111)
-  [[webpage]](https://universal-policy.github.io/unipi/)
-- **Learning Universal Policies via Text-Guided Video Generation (NeurIPS 2023)**
-  [[paper]](https://arxiv.org/abs/2302.00111)
-  [[webpage]](https://universal-policy.github.io/unipi/)
-- **Learning Universal Policies via Text-Guided Video Generation (NeurIPS 2023)**
-  [[paper]](https://arxiv.org/abs/2302.00111)
-  [[webpage]](https://universal-policy.github.io/unipi/)
+- **Using Left and Right Brains Together: Towards Vision and Language Planning (ICML 2024)**
+  [[paper]](https://arxiv.org/abs/2402.10534)
+- **Compositional Foundation Models for Hierarchical Planning (NeurIPS 2023)**
+  [[paper]](https://arxiv.org/abs/2309.08587)
+  [[webpage]](https://hierarchical-planning-foundation-model.github.io/)
+- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
+  [[paper]](https://arxiv.org/abs/2409.09016)
+  [[code]](https://github.com/OpenDriveLab/CLOVER)
+- **GR-1: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**
+  [[webpage]](https://gr1-manipulation.github.io)
+  [[code]](https://github.com/bytedance/GR-1)
+- **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**
+  [[webpage]](https://gr2-manipulation.github.io)
+- **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models (NeurIPS 2024)**
+  [[paper]](https://arxiv.org/abs/2409.09016)
+  [[code]](https://github.com/OpenDriveLab/CLOVER)
+- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
+  [[paper]](https://arxiv.org/abs/2409.09016)
+  [[code]](https://github.com/OpenDriveLab/CLOVER)
+- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
+  [[paper]](https://arxiv.org/abs/2409.09016)
+  [[code]](https://github.com/OpenDriveLab/CLOVER)
+- **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation (NeurIPS 2024)**
+  [[paper]](https://arxiv.org/abs/2409.09016)
+  [[code]](https://github.com/OpenDriveLab/CLOVER)
 
   
 
