@@ -3,7 +3,97 @@
 ## Survey
 
 ## Data Generation
+- **GRUtopia: Dream General Robots in a City at Scale**
+  [[paper]](https://arxiv.org/abs/2407.10943)
+  [[code]](https://github.com/OpenRobotLab/GRUtopia)
+- **Diffusion for Multi-Embodiment Grasping**
+  [[paper]](https://arxiv.org/html/2410.18835v1)
+- **Gen2sim: Scaling up robot learning in simulation with generative model (ICRA 2024)**
+  [[paper]](https://arxiv.org/abs/2310.18308)
+  [[code]](https://github.com/pushkalkatara/Gen2Sim)
+  [[webpage]](https://gen2sim.github.io/)
+- **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation (ICML 2024)**
+  [[paper]](https://arxiv.org/abs/2311.01455)
+  [[code]](https://github.com/Genesis-Embodied-AI/RoboGen)
+  [[webpage]](https://robogen-ai.github.io/)
+- **Holodeck: Language Guided Generation of 3D Embodied AI Environments (CVPR 2024)**
+  [[paper]](https://arxiv.org/abs/2312.09067)
+  [[code]](https://github.com/allenai/Holodeck)
+  [[webpage]](https://yueyang1996.github.io/holodeck/)
+- **Video Generation Models as World Simulators**
+  [[paper]](https://arxiv.org/abs/2410.18072)
+  [[webpage]](https://openai.com/research/video-generation-models-as-world-simulators)
+- **Learning Interactive Real-World Simulators**
+  [[paper]](https://arxiv.org/abs/2310.06114)
+- **MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations (CoRL 2023)**
+  [[paper]](https://proceedings.mlr.press/v229/mandlekar23a/mandlekar23a.pdf)
+  [[code]](https://mimicgen.github.io)
+  [[webpage]](https://mimicgen.github.io/)
+- **CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation (CVPR 2024)**
+  [[paper]](https://arxiv.org/pdf/2402.14795)
+  [[code]](https://github.com/wang59695487/hand_teleop_real_sim_mix_adr)
+  [[webpage]]( https://cyber-demo.github.io/)
+- **Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**
+  [[paper]](https://arxiv.org/abs/2402.17768)
+  [[code]](https://github.com/ErinZhang1998/dmd_diffusion)
+  [[webpage]]()
+- **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning (ICRA 2025)**
+  [[paper]](https://arxiv.org/pdf/2410.24185)
+  [[code]](https://github.com/NVlabs/dexmimicgen/)
+  [[webpage]](https://dexmimicgen.github.io/)
+- **IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**
+  [[paper]](https://arxiv.org/abs/2405.01472)
+  [[webpage]](https://sites.google.com/view/intervengen2024)
+- **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition (CoRL 2023)**
+  [[paper]](https://proceedings.mlr.press/v229/ha23a/ha23a.pdf)
+  [[code]](https://github.com/real-stanford/scalingup)
+  [[webpage]](https://www.cs.columbia.edu/~huy/scalingup/)
+- **GenAug: Retargeting behaviors to unseen situations via Generative Augmentation (RSS 2023)**
+  [[paper]](https://arxiv.org/abs/2302.06671)
+  [[code]](https://github.com/genaug/genaug)
+  [[webpage]](https://genaug.github.io/)
+- **Scaling Robot Learning with Semantically Imagined Experience (RSS 2023)**
+  [[paper]](https://arxiv.org/abs/2302.11550)
+  [[webpage]](https://diffusion-rosie.github.io/)
+- **RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning (CoRL 2024)**
+  [[paper]](https://rovi-aug.github.io/static/pdf/rovi_aug_paper.pdf)
+  [[code]](https://github.com/BerkeleyAutomation/rovi-aug)
+  [[webpage]](https://rovi-aug.github.io/)
+- **Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation (CoRL 2022)**
+  [[paper]](https://arxiv.org/abs/2210.13638)
+  [[webpage]]( https://sites.google.com/view/implicitaugmentation/home)
+- **DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**
+  [[paper]](https://arxiv.org/abs/2210.02438)
+- **Shadow: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer (CoRL 2024)**
+  [[paper]](https://shadow-cross-embodiment.github.io/static/shadow24.pdf)
+  [[code]](https://shadow-cross-embodiment.github.io/)
+- **Human-to-Robot Imitation in the Wild (RSS 2022)**
+  [[paper]](https://arxiv.org/abs/2207.09450)
+  [[webpage]](https://human2robot.github.io/)
+- **Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting (RSS 2024)**
+  [[paper]]( https://robot-mirage.github.io/static/pdf/mirage_paper.pdf)
+  [[code]](https://github.com/BerkeleyAutomation/mirage)
+  [[webpage]](https://robot-mirage.github.io/)
+- **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**
+  [[paper]](https://arxiv.org/abs/2212.05711)
+  [[webpage]](https://cacti-framework.github.io/)
+- **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking (ICRA 2024)**
+  [[paper]](https://arxiv.org/abs/2309.01918)
+  [[code]](https://github.com/robopen/roboagent/)
+  [[webpage]](https://robopen.github.io/)
+- **ExAug: Robot-Conditioned Navigation Policies via Geometric Experience Augmentation (ICRA 2023)**
+  [[paper]](https://arxiv.org/abs/2210.07450)
+  [[code]](https://github.com/NHirose/ExAug)
+  [[webpage]](https://sites.google.com/view/exaug-nav)
+- **RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning (ICRA 2025)**
+  [[paper]](https://arxiv.org/abs/2409.14674)
+  [[code]](https://github.com/sled-group/RACER)
+  [[webpage]]( https://rich-language-failure-recovery.github.io/)
+- **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models (RSS 2023)**
+  [[paper]](https://arxiv.org/abs/2211.11736)
+  [[webpage]](https://instructionaugmentation.github.io/)
 
+      
 ## Reward Generation
 - **Language to Rewards for Robotic Skill Synthesis (CoRL 2023)**
   [[paper]](https://openreview.net/forum?id=SgTPdyehXMA)
