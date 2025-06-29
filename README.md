@@ -112,6 +112,9 @@
   [[paper]](https://openreview.net/forum?id=tUM39YTRxH)
 - **Eureka: Human-Level Reward Design via Coding Large Language Models (NeurIPS 2023)**
   [[paper]](https://arxiv.org/abs/2310.12931)
+- **Agentic Skill Discovery (CoRL 2024 workshop & ICRA@40)**
+  [[paper]](https://arxiv.org/abs/2405.15019)
+  [[code]](https://github.com/xf-zhao/Agentic-Skill-Discovery)
 - **CLIPort: What and Where Pathways for Robotic Manipulation**
   [[paper]](https://arxiv.org/abs/2109.12098)
 - **R3M: A Universal Visual Representation for Robot Manipulation**
