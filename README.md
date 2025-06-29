@@ -367,6 +367,10 @@
   [[paper]](https://arxiv.org/abs/2308.16891)
   [[webpage]](https://yanjieze.com/GNFactor/)
   [[code]](https://github.com/YanjieZe/GNFactor)
+- **WorldVLA: Towards Autoregressive Action World Model**
+  [[paper]](https://arxiv.org/pdf/2506.21539)
+  [[webpage]](https://github.com/alibaba-damo-academy/WorldVLA)
+  [[code]](https://github.com/alibaba-damo-academy/WorldVLA)
 
 
 
